@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+data/*.zip
+
+# macOS
+.DS_Store
